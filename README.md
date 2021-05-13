@@ -1,5 +1,5 @@
 # Get Candies
-This script was created in order to collect candies from [CoinGecko](https://www.coingecko.com/)site. Candies are for now in beta but it's already allow us to have free books or discounts on several purchases.
+This script was created in order to collect candies from [CoinGecko](https://www.coingecko.com/) site. Candies are for now in beta but it's already allow us to have free books or discounts on several purchases.
 
 ## Installation
 
